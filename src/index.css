@@ -88,7 +88,7 @@ input[type="text"] {
   position: relative;
   height: 180px;
   width: 180px;
-  text-align: center;
+  justify-content: center;
 }
 .meal img {
   width: 100%;
